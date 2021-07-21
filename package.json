@@ -6,12 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "bhumilsarvaiya",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bhumilsarvaiya/npm-versioning-test.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bhumilsarvaiya/npm-versioning-test/issues"
   },
